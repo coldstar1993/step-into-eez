@@ -1,4 +1,4 @@
-# From Based Rollups to EEZ(Ethereum Economics Zone)
+# From Based Rollups to EEZ(Ethereum Economic Zone)
 
 > A progressive introduction to EEZ (Ethereum Economic Zone), split into seven short pieces covering the technology, user experience, and ecosystem implications.
 
