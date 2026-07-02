@@ -2,6 +2,11 @@
 
 > A progressive introduction to EEZ (Ethereum Economic Zone), split into seven short pieces covering the technology, user experience, and ecosystem implications.
 
+referencing: 
+* X: https://x.com/etheconomiczone
+* EEZ Architecture: https://docs.google.com/presentation/d/1RREYXg8Sv6cGwAAZ75enjQRt1M_LszgOF4ZJXS-fNLM/edit?slide=id.p#slide=id.p
+* Synchronous Composability Between Rollups via Realtime Proving: https://ethresear.ch/t/synchronous-composability-between-rollups-via-realtime-proving/23998
+
 ## Reading Path
 
 Read them in order — each piece builds on what came before.
