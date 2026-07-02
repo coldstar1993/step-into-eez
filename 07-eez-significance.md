@@ -223,17 +223,6 @@ Placing EEZ on Ethereum's timeline:
 
 ---
 
-## Questions to sit with
-
-Try answering these after finishing the series:
-
-1. If you were building a cross-chain DeFi application today, how would your architecture differ before vs. after EEZ ships?
-2. How does Aave get "cross-chain visibility without touching its code"? Which EEZ mechanism enables it? (Hint: revisit Part 2's "L1 wraps L2 block" and Part 4's Proxy Contracts.)
-3. If Solana or another non-Ethereum L1 wanted to join EEZ, what are the technical obstacles? What are the political and economic ones?
-4. Which link in the "value capture returns to L1" chain do you find least convincing?
-
----
-
 **Series complete.** 👏
 
 **[← Previous](./06-rollup-adoption-paths.md) · [Index](./README.md)**
