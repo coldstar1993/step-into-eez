@@ -20,3 +20,4 @@ Read them in order — each piece builds on what came before.
 | 5 | [Realtime Proving: The Make-or-Break Piece](./05-realtime-proving.md) | The 12-second window, Composer economics, Zisk's role |
 | 6 | [How Existing Rollups Plug Into EEZ](./06-rollup-adoption-paths.md) | Three adoption paths, OP/Arbitrum's likely route |
 | 7 | [Why EEZ Matters: Fragmentation, Bridges, and ETH's Story](./07-eez-significance.md) | End of fragmentation, seven concrete use cases, value capture debate |
+| 8 | [The EEZ Opportunity Landscape: Industry Restructuring, Emerging Ecosystems, and Entry Points](./08-eez-future-landscape.md) | A forward-looking analysis of its long-term impact |
