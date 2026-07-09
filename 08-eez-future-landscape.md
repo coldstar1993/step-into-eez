@@ -167,16 +167,7 @@ Organized by timing and barrier to entry:
 
 ---
 
-## V. Anti-Patterns — What Not to Build
-
-1. **Don't build a standalone bridge protocol.** EEZ directly subsumes this category.
-2. **Don't launch "an EEZ token."** EEZ is designed as credibly neutral public infrastructure with no native token. Trying to bolt governance-token economics onto EEZ would be politically toxic.
-3. **Don't build cross-chain solutions incompatible with EEZ.** The ecosystem will converge on the EEZ standard. Projects that compete against it head-on will be marginalized.
-4. **Don't underestimate compliance.** EEZ's "private chains composing with public DeFi" use case will bring institutions in. Institutions = compliance demand explosion. If your Composer or dApp considers compliance architecture from day one, you're two years ahead of competitors who don't.
-
----
-
-## VI. Estimated Timeline
+## V. Estimated Timeline
 
 ```
 2026 H2   ─── EEZ testnet + Chain Zero launches
@@ -199,6 +190,6 @@ Long Term ─── ZK proving costs drop further; all major rollups move to Pat
 
 ---
 
-## VII. Summary
+## VI. Summary
 
 > **EEZ is not merely a technical upgrade — it's the inflection point where Ethereum evolves from "50 isolated islands" into "one unified economy." Above this inflection point an entirely new industry tree will grow: the Composer ecosystem, Prover markets, Intent infrastructure, compliance layers, developer tooling, and a restructured DeFi landscape. The biggest opportunities belong to builders who turn EEZ's raw infrastructure capabilities into products that regular users and institutions can actually use — the same way Stripe turned payment infrastructure into one line of code.**
