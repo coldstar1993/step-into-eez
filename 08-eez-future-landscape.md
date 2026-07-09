@@ -27,7 +27,7 @@ Every link in this chain is an independent business position. **Composers will s
 - **Arbitrage** (pure cross-chain MEV extraction, high-frequency)
 - **Compliance** (licensed, serving institutions with KYC-compliant cross-chain execution)
 
-### 3. Rollups Enter a "Franchise" Model
+### 3. EEZ-native rollups Model
 
 EEZ functions like an **economic zone franchise system**:
 
