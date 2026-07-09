@@ -29,8 +29,6 @@ Every link in this chain is an independent business position. **Composers will s
 
 ### 3. EEZ-native rollups Model
 
-EEZ functions like an **economic zone franchise system**:
-
 - A new rollup joining EEZ instantly gains access to the entire network's liquidity and user base.
 - **Rollups that don't join EEZ face liquidity isolation**
 - This creates a new category: **"EEZ-native rollups"** — designed from day one around EEZ standards (ZK realtime proving + IRollupContract + Composer-friendly APIs), composable at launch.
